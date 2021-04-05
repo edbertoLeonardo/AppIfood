@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176759943454",
+    "project_id": "meuifood-821a4",
+    "storage_bucket": "meuifood-821a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176759943454:android:81d89ff24e9625cbba990f",
+        "android_client_info": {
+          "package_name": "br.com.leonardo.meuifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176759943454-keiknef0qumh6q91mr1obfjkgdakfpph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.leonardo.meuifood",
+            "certificate_hash": "d2837133bc9c6d6d11b4b7600179beff32429a51"
+          }
+        },
+        {
+          "client_id": "176759943454-95ta92q6lst9ackvit84f4kfbfgtnmev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmxMQm-HoK42J6lBmZE2k5V_l_hvX05Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176759943454-95ta92q6lst9ackvit84f4kfbfgtnmev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
